@@ -5,7 +5,7 @@ export default function Home() {
     name: "Mehtab Ali",
     title: "Software Quality Assurance Engineer",
     tagline: "Bridging the gap between manual precision & automated software testing.",
-    photo: "/mehtab-photo.jpg",
+    photo: "/MehtabAli-Portfolio.github.io/mehtab-photo.jpg",
     email: "engineer.mehtabali81@gmail.com",
     github: "https://github.com/MehtabAli-81",
     linkedin: "https://www.linkedin.com/in/mehtab-ali-68a82628b"
